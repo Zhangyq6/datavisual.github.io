@@ -6,4 +6,4 @@
 
 ## 2.作业2
 作业二描述
-[作业二描述](http://datavisual.github.io/
+[作业二描述](http://datavisual.github.io/wordcloud_wr_file.html)
